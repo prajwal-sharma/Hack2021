@@ -5,6 +5,6 @@ Hacktoberfest repository to contribute & to create a website in 2021.
 
 
 website
-built by MERN technologies ....
+built by MERN technologies .... like Nodejs Mongodb Express React
 
 br
